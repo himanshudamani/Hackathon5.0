@@ -1,0 +1,28 @@
+body{
+  background-image: url(/images/blooming.jpg);
+  background-size: 100% 650px;
+}
+
+.up{
+  padding-left: 220px;
+  padding-top: 80px;
+  image-resolution: 1px 1px;
+  float: left;
+}
+.down{
+  padding-left: 60px;
+  padding-top: 80px;
+  image-resolution: 10px 10px;
+  float:left;
+}
+.center{
+  text-align: center;
+  text-decoration-color: red;
+    text-decoration: underline;
+}
+.down2{
+  padding-left: 60px;
+  padding-top: 80px;
+    float: left;
+    image-resolution: 10px 10px;
+}

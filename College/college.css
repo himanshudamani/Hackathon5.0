@@ -1,0 +1,13 @@
+body{
+  background-image: url(/images/blooming.jpg);
+  background-size: 100% 650px;
+}
+
+.up{
+  padding-left: 250px;
+padding-top: 50px;
+}
+.down{
+  padding-left: 310px;
+  padding-top: 60px;
+}
